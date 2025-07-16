@@ -1,1 +1,1 @@
-# money-pot
+# money-pot-server
